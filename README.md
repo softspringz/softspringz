@@ -15,8 +15,8 @@ This is my real face :point_down:
  
 </picture>
 
-<details>
-<summary> My top superpowers? :point_down: </summary>
+<details open>
+<summary> My top superpowers are .....  </summary>
 
 | Rank |  Superpowers  |
 |-----:|---------------|
